@@ -1,0 +1,2 @@
+﻿"INDICATOR_CODE","INDICATOR_NAME","SOURCE_NOTE","SOURCE_ORGANIZATION",
+"IC.ELC.PRI.KH.DB1619","Getting electricity: Price of electricity (US cents per kWh) (DB16-20 methodology)","The price of electricity is measured in U.S. cents per kWh. A monthly electricity consumption is assumed, for which a bill is then computed for a warehouse based in the largest business city of the economy for the month of March. The bill is then expressed back as a unit of kWh. The index is computed based on the methodology in the DB16-20 studies.","",

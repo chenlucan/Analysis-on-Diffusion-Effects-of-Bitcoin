@@ -1,0 +1,31 @@
+﻿(Google), M. C., (Yahoo), N., (Yahoo), P. P., America), S. V. S. R., & Semiconductor), V. K. F. (2016). BlockChain Technology: Beyond Bitcoin. Applied Innovation Review(2). 
+Barber, S., Boyen, X., Shi, E., & Uzun, E. (2012). Bitter to Better — How to Make Bitcoin a Better Currency. Financial Cryptography and Data Security 399-414. 
+Bendiksen, C., & Gibbons, S. (2019). THE BITCOIN MINING NETWORK. Retrieved from 
+BOTOŞ, H. M. (2017). Bitcoin Intelligence – Business Intelligence meets Crypto Currency. CES Working Papers, IX(3). 
+Bouri, E., Jalkh, N., Molnár, P., & Roubaud, D. (2017). Bitcoin for energy commodities before and after the December 2013 crash: diversifier, hedge or safe haven? APPLIED ECONOMICS, 49. 
+Cheah, E.-T., & Fry, J. (2015). Speculative bubbles in Bitcoin markets? An empirical investigation into the fundamental value of Bitcoin. Economics Letters. 
+Chovin, L. (2018). International Markets – Bitcoin Believers Versus Sceptics. Credit Control, 39, 52-56. 
+Chuen, D. L. K., & Low, L. (2018). Inclusive fintech : blockchain, cryptocurrency and ICO: New Jersey : World Scientific.
+Cocco, L., Pinna, A., & Marchesi, M. (2017). Banking on Blockchain: Costs Savings Thanks to the Blockchain Technology. future internet. 
+Croman, K., Decker, C., Eyal, I., Gencer, A. E., Juels, A., Kosba, A., . . . Wattenhofer, R. (2016). On Scaling Decentralized Blockchains. Financial Cryptography and Data Security, 106-125. 
+Forsyth, R. W. (2017). 21st Century Tulips. Up & Down Wall Street. 
+Georgiadis, E. (2019). How many transactions per second can bitcoin really handle ? Theoretically. 
+Grover, P., Kar, A. K., & Janssen, M. (2019). Diffusion of blockchain technology: Insights from academic literature and
+social media analytics. Journal of Enterprise Information Management. 
+GUPTA, R. (2017). FUTURE OF BITCOINS - A STUDY. Journal of Internet Banking and Commerce, 22(3). 
+Horra, L. P. d. l., Fuente, G. d. l., & Perote, J. (2019). The drivers of Bitcoin demand: A short and long-run analysis. International Review of Financial Analysis, 62, 21-34. 
+Inc., V. (2019). Visa Inc. Fiscal 2019 Annual Report. Retrieved from 
+Kjærland, F., Khazal, A., Krogstad, E. A., Nordstrøm, F. B. G., & Oust, A. (2018). An Analysis of Bitcoin’s Price Dynamics. Risk and Financial Management. 
+Kugler, L. (2018). Why Cryptocurrencies Use So Much Energy - and What to Do About It. Communications of the ACM, 81(7). 
+Luther, W. J. (2018). Is Bitcoin Intrinsically Worthless? The Journal of Private Enterprise, 33, 31-45. 
+Ma, J., Gans, J. S., & Tourky, R. (2018). MARKET STRUCTURE IN BITCOIN MINING. NBER Working Paper, 24242. 
+Nguyen, T., Bodisco, C. d., & Thaver, R. (2018). FACTORS AFFECTING BITCOIN PRICE IN THE CRYPTOCURRENCY MARKET: AN EMPIRICAL STUDY. International Journal of Business and Economics Perspectives, 13(1). 
+Ram, A. J. (2019). Bitcoin as a new asset class. Meditari Accountancy Research, 27, 147-168. 
+Ryu, H.-S., & Ko, K. S. (2019). Understanding speculative investment behavior in the Bitcoin context from a dual-systems perspective. Industrial Management & Data Systems, 119(7), 1431-1456. 
+Sompolinsky, Y., & Zohar, A. (2018). Bitcoin's underlying incentives. Communications of the ACM, 61(3). 
+Stoll, C., Klaaßen, L., & ̈rfer, U. G. (2019). The Carbon Footprint of Bitcoin. Joule, 3, 1647-1661. 
+Taylor, M. B. (2017). The Evolution of Bitcoin Hardware. Computer,, 50, 58-66. 
+Vries, A. d. (2018). Bitcoin’s Growing Energy Problem. Joule, 2(5), 801-805. 
+Vries, A. d. (2019). Renewable Energy Will Not Solve Bitcoin’s Sustainability Problem. Joule, 3(4), 893-898. 
+Yelowitz, A., & Wilson, M. (2015). Characteristics of Bitcoin users: an analysis of Google search data. Applied Economics Letters, 22(13). 
+思二勋. (2019). 中国区块链政策现状及趋势分析报告. Retrieved from 
